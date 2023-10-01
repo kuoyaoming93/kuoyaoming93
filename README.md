@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I’m currently ASIC Digital Design Engineer at Monolithic Power Systems (MPS)<br>📚 Graduated as Ph.D. in Computer Engineering<br>🇪🇸🇹🇼🇬🇧🇩🇪 Spanish and Chinese as native speaker
+💼 I’m currently ASIC Digital Design Engineer at Monolithic Power Systems (MPS)<br>📚 Graduated as Ph.D. in Computer Engineering<br>Spanish and Chinese as native speaker
 
 
 ## 🌐 Socials:
